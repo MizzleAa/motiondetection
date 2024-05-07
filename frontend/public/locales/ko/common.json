@@ -1,0 +1,9 @@
+{
+    "header":{
+        "title":"산업 안전 솔루션"
+    },
+    "webcamstream":{
+        "origin":"선택 화면",
+        "detection":"화면"
+    }
+}

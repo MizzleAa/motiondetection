@@ -1,0 +1,9 @@
+{
+    "header":{
+        "title":"Industrial Safety Solutions"
+    },
+    "webcamstream":{
+        "origin":"Selected Display",
+        "detection":"Display"
+    }
+}
